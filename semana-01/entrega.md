@@ -16,8 +16,19 @@ Evidências da execução do **LED interno do Arduino**:
 Evidências da **simulação de LED externo no TinkerCad**:  
 - Protoboard, LED e resistor conectados  
 - Código e execução sem erros  
-- Projeto publicado no GitHub
 
 ![Projeto TinkerCad](assets/print-tinkercad.png)  
 
 [Link do projeto no Tinkercad](https://www.tinkercad.com/things/d0EFkrjnstS/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=ErMIxDSmDcH8OgxXiy2VDw8EUhbafbSkIGiJgShhnZ0)
+
+## Parte 03: Integração com Arduino
+
+Evidências da **led fisico no arduino piscando**:  
+- Protoboard, LED e resistor conectados fisicamente
+- Código e execução sem erros  
+- Leds diferentes piscando no protoboard
+
+![Código LED fisico](assets/print-codigo-piscando.png)
+![Código LED fisico 02](assets/print-codigo-piscando-02.png)
+![LEDs Ligados](assets/led-piscando.jpeg)  
+![Vídeo do LED funcionando](assets/video-led-piscando.mp4)
