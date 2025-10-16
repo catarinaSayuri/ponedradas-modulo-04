@@ -9,7 +9,7 @@ Evidências da execução do **LED interno do Arduino**:
 
 ![Código Blink LED Interno](assets/print-codigo.png)  
 ![LED Ligado](assets/led-ligado.jpeg)  
-<video controls src="assets/video-led-ligado.mp4" title="LED Ligado"></video>
+![Vídeo do LED funcionando](assets/video-led-ligado.mp4)
 
 ## Parte 02: Simulando Blink Externo
 
